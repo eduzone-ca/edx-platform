@@ -1,0 +1,270 @@
+
+#. Start of local translations for EDUlib
+#. Translators: "Terms of service" is a legal document users must agree to
+#. in order to register a new account.
+#. msgstr "Dans le cadre de l'initiative EDUlib (ou FUN), des équipes de chercheurs vont recueillir et analyser les traces informatiques des activités de tous les participants, dans le but de produire des connaissances scientifiques et d'améliorer les cours. Les traces auxquelles auront accès les chercheurs seront anonymisées, par une équipe de l'Université de Montréal sous la supervision du Pr. Poellhuber, par un processus informatique retirant des données tout renseignement personnel permettant de vous identifier et transformant votre identifiant de manière non réversible. J'acccepte les {terms_of_service} {platform_name}."
+#: openedx/core/djangoapps/user_api/views.py
+msgid "I agree to the {platform_name} {link_start}Terms of Service{link_end} and {link_start2}Honor Code{link_end2}."
+msgstr "J'accepte {link_start}les conditions générales du service{link_end} et {link_start2}le code sur l'honneur{link_end2} {platform_name}."
+
+#: themes/edulib-theme/lms/templates/emails/activation_email.txt
+msgid "There's just one more step before you can enroll in a course: "
+"You need to activate your {platform_name} account. To activate "
+"your account, click the following link. If that doesn't work, "
+"copy and paste the link into your browser's address bar."
+msgstr "Il ne reste plus qu'une étape avant que vous puissiez vous inscrire à un cours : "
+"vous devez activer votre compte {platform_name}. Pour cela, "
+"veuillez cliquez sur le lien suivant. Si le lien ne fonctionne pas, "
+"copiez et collez-le dans la barre d'adresse de votre navigateur."
+
+#: themes/edulib-theme/lms/templates/emails/activation_email.txt
+msgid "After you activate your account, you can take "
+"any of the hundreds of courses {platform_name} "
+"offers. You will receive occasional email "
+"messages from {platform_name} about new courses "
+"or other information."
+msgstr "Une fois que votre compte sera activé, vous pourrez suivre "
+"l'un des nombreux cours proposés sur {platform_name}. "
+"À l'occasion, vous pourriez recevoir des courriels "
+"d'{platform_name} à propos de nouveaux cours ou d'autres informations de ce genre."
+
+#: themes/edulib-theme/lms/templates/emails/activation_email.txt
+msgid "If you need help, please "
+"send an email to {info_email_address}, "
+"or write to us at {info_postal_address}."
+msgstr "Si vous avez besoin d'information, merci de nous écrire "
+"par courriel à {info_email_address}, ou encore par voie postale "
+"à {info_postal_address}."
+
+#: themes/edulib-theme/lms/templates/emails/activation_email.txt
+msgid "We hope you enjoy learning with {platform_name}!"
+msgstr "Nous espérons que apprécierez vos apprentissages avec {platform_name}!"
+
+#: themes/edulib-theme/lms/templates/emails/activation_email.txt
+msgid "This email message was automatically sent by {site_name} because "
+"someone attempted to create an account on {platform_name} using "
+"this email address."
+msgstr "Ce message vous a été envoyé automatiquement par {site_name} en "
+"raison du fait que quelqu'un a tenté de créer un compte sur {platform_name} en utilisant "
+"cette adresse courriel."
+
+#: lms/templates/discussion/_thread_list_template.html
+msgid "Search all posts"
+msgstr "Rechercher…"
+
+#: common/lib/xmodule/xmodule/course_module.py
+msgid "Enter the names of the advanced components to use in your course."
+msgstr "Entrer les noms des modules avancés à utiliser dans votre cours."
+
+#. Translators: This is a menu option for showing only unread forum threads
+#: lms/templates/discussion/_thread_list_template.html:13
+msgid "Unread"
+msgstr "Non lu"
+
+#. Translators: This is a menu option for showing only unanswered forum
+#. question threads
+#: lms/templates/discussion/_thread_list_template.html:16
+msgid "Unanswered"
+msgstr "Sans réponse"
+
+#: lms/templates/problem.html
+msgid "Answers are displayed within the problem"
+msgstr "Les réponses sont affichées dans le problème"
+
+#: openedx/features/course_experience/templates/course_experience/dates-summary.html:9
+msgid "Today is {date} UTC"
+msgstr "Nous sommes le {date} UTC"
+
+#: lms/djangoapps/courseware/date_summary.py:123
+#, python-brace-format
+msgid "{relative} ago - {absolute} UTC"
+msgstr "{relative} depuis - {absolute} UTC"
+
+#: lms/djangoapps/courseware/date_summary.py:123
+#, python-brace-format
+msgid "in {relative} - {absolute} UTC"
+msgstr "dans {relative} - {absolute} UTC"
+
+#: lms/templates/emails/activation_email.txt:16
+msgid ""
+"If you need help, please contact us by email at {support_email}."
+msgstr ""
+"Si vous avez besoin d'aide, veuillez nous contacter par courriel au {support_email}."
+
+#: lms/templates/index.html
+msgid "Visit the EDUplus catalog"
+msgstr "Visitez le catalogue EDUplus"
+
+#: lms/templates/index.html
+msgid "en"
+msgstr "fr"
+
+#: freetextresponse/models.py:41
+msgid "Display Correctness?"
+msgstr "Afficher l'exactitude?"
+
+#: freetextresponse/models.py:43
+msgid ""
+"This is a flag that indicates if the indicator icon should be displayed "
+"after a student enters their response"
+msgstr ""
+"C'est un drapeau qui indique si l'icône de l'indicateur doit être affichée "
+"après qu'un élève ait entré sa réponse"
+
+#: freetextresponse/models.py:51
+msgid "Display Other Student Responses"
+msgstr "Afficher les réponses des autres étudiants"
+
+#: freetextresponse/models.py:53
+msgid ""
+"This will display other student responses to the student after they submit "
+"their response."
+msgstr ""
+"Cela affichera les réponses des autres étudiants à l’étudiant après qu’il "
+"aura soumis sa réponse."
+
+#: freetextresponse/models.py:62
+msgid "System selected answers to give to students"
+msgstr "Réponses sélectionnées par le système à donner aux étudiants"
+
+#: freetextresponse/models.py:67
+msgid "This is the title for this question type"
+msgstr "Ceci est le titre pour ce type de question"
+
+#: freetextresponse/models.py:73
+msgid "Full-Credit Key Phrases"
+msgstr "Phrases clés de crédit complet"
+
+#: freetextresponse/models.py:75
+msgid ""
+"This is a list of words or phrases, one of which must be present in order "
+"for the student's answer to receive full credit"
+msgstr ""
+"Ceci est une liste de mots ou d'expressions, dont l'un doit être présent "
+"pour que la réponse de l'élève reçoive un crédit complet."
+
+#: freetextresponse/models.py:83
+msgid "Half-Credit Key Phrases"
+msgstr "Phrases clés de demi crédit"
+
+#: freetextresponse/models.py:85
+msgid ""
+"This is a list of words or phrases, one of which must be present in order "
+"for the student's answer to receive half credit"
+msgstr ""
+"Ceci est une liste de mots ou d'expressions, dont l'un doit être présent "
+"pour que la réponse de l'élève reçoive un demi crédit."
+
+#: freetextresponse/models.py:93
+msgid "Maximum Number of Attempts"
+msgstr "Nombre maximum de tentatives"
+
+#: freetextresponse/models.py:95
+msgid ""
+"This is the maximum number of times a student is allowed to attempt the "
+"problem"
+msgstr ""
+"C'est le nombre maximum de fois qu'un étudiant est autorisé à tenter le "
+"problème"
+
+#: freetextresponse/models.py:103
+msgid "Maximum Word Count"
+msgstr "Nombre de mots maximum"
+
+#: freetextresponse/models.py:105
+msgid "This is the maximum number of words allowed for this question"
+msgstr "C'est le nombre maximum de mots permis pour cette question"
+
+#: freetextresponse/models.py:113
+msgid "Minimum Word Count"
+msgstr "Nombre de mots minimum"
+
+#: freetextresponse/models.py:115
+msgid "This is the minimum number of words required for this question"
+msgstr "C'est le nombre minimum de mots requis pour cette question"
+
+#: freetextresponse/models.py:125
+msgid "This is the prompt students will see when asked to enter their response"
+msgstr ""
+"Il s’agit de l’invite que les étudiants verront lorsqu’on leur demandera de "
+"répondre."
+
+#: freetextresponse/models.py:133
+msgid "Submission Received Message"
+msgstr "Message de soumission reçue"
+
+#: freetextresponse/models.py:135
+msgid "This is the message students will see upon submitting their response"
+msgstr "C'est le message que les étudiants verront en soumettant leur réponse"
+
+#: freetextresponse/models.py:152
+msgid "Draft Received Message"
+msgstr "Message d'ébauche reçue"
+
+#: freetextresponse/models.py:154
+msgid "This is the message students will see upon submitting a draft response"
+msgstr ""
+"C'est le message que les étudiants verront lors de la soumission d'une "
+"ébauche de réponse"
+
+#: freetextresponse/templates/view.html:15
+msgid ""
+"Allow my response to possibly be visible by other learners after submitting "
+"their response"
+msgstr ""
+"Permettre à ma réponse d'être éventuellement visible par d'autres apprenants "
+"après avoir soumis leur réponse"
+
+#: freetextresponse/templates/view.html:21
+#: freetextresponse/templates/view.html:24
+msgid "Checking..."
+msgstr "Vérification en cours..."
+
+#: freetextresponse/templates/view.html:36
+msgid "peer responses"
+msgstr "réponses des pairs"
+
+#: freetextresponse/templates/view.html:38
+msgid "Submissions by others"
+msgstr "Soumissions par d'autres"
+
+#: freetextresponse/templates/view.html:39
+#: freetextresponse/templates/view.html:43
+msgid "No responses to show at this time"
+msgstr "Aucune réponse à afficher pour le moment"
+
+#: freetextresponse/views.py:126
+#, python-brace-format
+msgid "{weight} point possible"
+msgid_plural "{weight} points possible"
+msgstr[0] "{weight} point possible"
+msgstr[1] "{weight} points possible"
+
+#: freetextresponse/views.py:139
+#, python-brace-format
+msgid "{score_string}/{weight} point"
+msgid_plural "{score_string}/{weight} points"
+msgstr[0] "{score_string}/{weight} point"
+msgstr[1] "{score_string}/{weight} points"
+
+#: freetextresponse/views.py:157
+#, python-brace-format
+msgid "You have used {count_attempts} of {max_attempts} submission"
+msgid_plural "You have used {count_attempts} of {max_attempts} submissions"
+msgstr[0] "Vous avez utilisé {count_attempts} de {max_attempts} soumission."
+msgstr[1] "Vous avez utilisé {count_attempts} de {max_attempts} soumissions."
+
+#: freetextresponse/views.py:181
+#, python-brace-format
+msgid "Your response must be between {min} and {max} word."
+msgid_plural "Your response must be between {min} and {max} words."
+msgstr[0] "Votre réponse doit comporter entre {min} et {max} mots."
+msgstr[1] "Votre réponse doit comporter entre {min} et {max} mots."
+
+#: freetextresponse/views.py:277
+#, python-brace-format
+msgid "Invalid Word Count. {word_count_message}"
+msgstr "Nombre de mots invalide. {word_count_message}"
+
+#~ msgid "Please enter your response within this text area"
+#~ msgstr "Veuillez entrer votre réponse dans cette zone de texte"
