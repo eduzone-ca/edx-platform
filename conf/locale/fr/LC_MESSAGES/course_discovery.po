@@ -1001,11 +1001,11 @@ msgstr "Veuillez ajouter toutes les notes additionnelles ou les instructions par
 
 #: apps/publisher/models.py
 msgid "Comma separated list of edX usernames or emails of admins."
-msgstr "Liste séparée par des virgules des noms d'utilisateur EDUlib ou des courriels des administrateurs."
+msgstr "Liste séparée par des virgules des noms d'utilisateur EDUplus ou des courriels des administrateurs."
 
 #: apps/publisher/models.py
 msgid "Comma separated list of edX usernames or emails of additional staff."
-msgstr "Liste séparée par des virgules des noms d'utilisateur EDUlib ou des courriels du personnel supplémentaire."
+msgstr "Liste séparée par des virgules des noms d'utilisateur EDUplus ou des courriels du personnel supplémentaire."
 
 #: apps/publisher/models.py
 msgid "Professional (with ID verification)"
@@ -1172,7 +1172,7 @@ msgid ""
 "can submit this course run for review, you must finalize the information for"
 " %(link_start)s%(course_url)s%(link_middle)s%(course_name)s%(link_end)s with"
 " edX."
-msgstr "Vous pouvez actuellement modifier les informations pour cette instance de cours. Cependant, avant de pouvoir soumettre cette instance de cours pour revue, vous devez finaliser les informations pour %(link_start)s%(course_url)s%(link_middle)s%(course_name)s%(link_end)s avec EDUlib."
+msgstr "Vous pouvez actuellement modifier les informations pour cette instance de cours. Cependant, avant de pouvoir soumettre cette instance de cours pour revue, vous devez finaliser les informations pour %(link_start)s%(course_url)s%(link_middle)s%(course_name)s%(link_end)s avec EDUplus."
 
 #: apps/publisher/templates/publisher/_approval_widget.html
 msgid "Decline"
@@ -1486,7 +1486,7 @@ msgid ""
 "\n"
 "                    When you create a course run, Publisher immediately creates a page for the course run in Publisher, and the edX team creates a Studio URL for the course run. You will receive an email message when edX has created the Studio URL.\n"
 "                "
-msgstr "\n                    Lorsque vous créez une instance de cours, Publisher crée immédiatement une page pour l'instance de cours dans Publisher, et l'équipe EDUlib crée un URL Studio pour l'instance de cours. Vous recevrez un courriel quand EDUlib aura créé le URL Studio.\n                "
+msgstr "\n                    Lorsque vous créez une instance de cours, Publisher crée immédiatement une page pour l'instance de cours dans Publisher, et l'équipe EDUplus crée un URL Studio pour l'instance de cours. Vous recevrez un courriel quand EDUplus aura créé le URL Studio.\n                "
 
 #: apps/publisher/templates/publisher/add_courserun_form.html
 msgid "FIND COURSE"
@@ -1677,7 +1677,7 @@ msgstr "URL STUDIO"
 
 #: apps/publisher/templates/publisher/course_detail/_widgets.html
 msgid "To be added by edX"
-msgstr "A être ajouté par EDUlib"
+msgstr "A être ajouté par EDUplus"
 
 #: apps/publisher/templates/publisher/course_detail/_widgets.html
 msgid "No course runs exist for this course"
@@ -1691,7 +1691,7 @@ msgstr "Modifier le cours"
 msgid ""
 "All required fields must be complete before this course can be sent to edX "
 "marketing for review."
-msgstr "Tous les champs obligatoires doivent être complétés avant que ce cours puisse être envoyé au marketing EDUlib pour revue."
+msgstr "Tous les champs obligatoires doivent être complétés avant que ce cours puisse être envoyé au marketing EDUplus pour revue."
 
 #: apps/publisher/templates/publisher/course_edit_form.html
 msgid "Note:"
@@ -1701,7 +1701,7 @@ msgstr "Note : "
 msgid ""
 "If you edit course information after edX marketing has reviewed the course, "
 "you have to send the course for review again."
-msgstr "Si vous modifiez les informations de cours après que le marketing EDUlib a examiné le cours, vous devez renvoyer le cours pour révision."
+msgstr "Si vous modifiez les informations de cours après que le marketing EDUplus a examiné le cours, vous devez renvoyer le cours pour révision."
 
 #: apps/publisher/templates/publisher/course_edit_form.html
 msgid "Sequence Courses:"
@@ -2077,7 +2077,7 @@ msgstr "Codec audio : AAC 44.1KHz/192 Kbps"
 
 #: apps/publisher/templates/publisher/course_edit_form.html
 msgid "Visit edX’s YouTube channel for examples of other About videos:"
-msgstr "Visitez la chaîne YouTube d'EDUlib pour des exemples d'autres vidéos À Propos :"
+msgstr "Visitez la chaîne YouTube d'EDUplus pour des exemples d'autres vidéos À Propos :"
 
 #: apps/publisher/templates/publisher/course_edit_form.html
 msgid ""
@@ -2173,7 +2173,7 @@ msgid ""
 "%(strong_start)sNote:%(strong_end)s If you edit course information after edX"
 " marketing has reviewed the course, you have to send the course to edX "
 "marketing for review again."
-msgstr "%(strong_start)sNote :%(strong_end)s Si vous modifiez les informations sur les cours après que le marketing EDUlib ait révisé le cours, vous devez renvoyer le cours au marketing EDUlib pour révision."
+msgstr "%(strong_start)sNote :%(strong_end)s Si vous modifiez les informations sur les cours après que le marketing EDUplus ait révisé le cours, vous devez renvoyer le cours au marketing EDUplus pour révision."
 
 #: apps/publisher/templates/publisher/course_run/edit_run_form.html
 msgid "Note that times use UTC."
@@ -2193,7 +2193,7 @@ msgstr "RYTHME DU COURS"
 
 #: apps/publisher/templates/publisher/course_run/edit_run_form.html
 msgid "The Studio URL for this course run. The edX PC creates this URL."
-msgstr "Le URL Studio URL pour cette instance de cours. Le PC EDUlib crée ce URL."
+msgstr "Le URL Studio URL pour cette instance de cours. Le PC EDUplus crée ce URL."
 
 #: apps/publisher/templates/publisher/course_run/edit_run_form.html
 msgid "Not yet created"
@@ -2278,7 +2278,7 @@ msgstr "Mise à jour de la session de cours"
 
 #: apps/publisher/templates/publisher/course_run_detail/_all.html
 msgid "(Required) To be added by edX"
-msgstr "(Requis) A être ajouté par EDUlib"
+msgstr "(Requis) A être ajouté par EDUplus"
 
 #: apps/publisher/templates/publisher/course_run_detail/_all.html
 #: apps/publisher/templates/publisher/course_run_detail/_drupal.html
@@ -2486,7 +2486,7 @@ msgstr "En acceptant l'aperçu de la page À Propos, vous confirmez que les info
 msgid ""
 "Note that before edX can publish the About page for this course run, the "
 "following information for the course run must be entered in Studio."
-msgstr "Notez qu'avant qu'EDUlib puisse publier la page À Propos de cette instance de cours, les informations suivantes pour cette instance de cours doivent être entrées dans Studio."
+msgstr "Notez qu'avant qu'EDUplus puisse publier la page À Propos de cette instance de cours, les informations suivantes pour cette instance de cours doivent être entrées dans Studio."
 
 #: apps/publisher/templates/publisher/course_run_detail/_preview_accept_popup.html
 msgid "The course run start and end date."
@@ -2558,7 +2558,7 @@ msgstr "Numéro de la session de cours"
 
 #: apps/publisher/templates/publisher/course_run_detail/_salesforce.html
 msgid "edX Course Run ID"
-msgstr "Identificateur de la session de cours EDUlib"
+msgstr "Identificateur de la session de cours EDUplus"
 
 #: apps/publisher/templates/publisher/course_run_detail/_salesforce.html
 msgid "Certificate Type"
@@ -2617,7 +2617,7 @@ msgstr "La page À Propos pour cette instance de cours a été publiée le  %(co
 
 #: apps/publisher/templates/publisher/course_run_detail/course_run_detail.html
 msgid "View it on edx.org at"
-msgstr "Voyez le sur edulib.org au"
+msgstr "Voyez le sur eduplus.ca au"
 
 #: apps/publisher/templates/publisher/course_run_detail/course_run_detail.html
 #: apps/publisher/templates/publisher/dashboard/_in_progress.html
@@ -2656,13 +2656,13 @@ msgid ""
 "EdX Publisher is used to create course About pages. Users enter, review, and"
 " approve content in Publisher. Publisher keeps track of the details and "
 "sends email updates when actions are necessary."
-msgstr "EDUlib Publisher est utilisé pour créer les pages À Propos des cours. Les utilisateurs entrent, révisent et approuvent le contenu dans Publisher. Publisher garde une trace des détails et envoie des mises à jour par courriel lorsque des actions sont nécessaires."
+msgstr "EDUplus Publisher est utilisé pour créer les pages À Propos des cours. Les utilisateurs entrent, révisent et approuvent le contenu dans Publisher. Publisher garde une trace des détails et envoie des mises à jour par courriel lorsque des actions sont nécessaires."
 
 #: apps/publisher/templates/publisher/courserun_list.html
 msgid ""
 "EdX Publisher is a companion to edX Studio. Course teams enter About page "
 "information in Publisher, and course content in Studio."
-msgstr "EDUlib Publisher est un compagnon de EDUlib Studio. Les équipes pédagogiques saisissent les informations sur la page À Propos dans Publisher et le contenu du cours dans Studio."
+msgstr "EDUplus Publisher est un compagnon de EDUplus Studio. Les équipes pédagogiques saisissent les informations sur la page À Propos dans Publisher et le contenu du cours dans Studio."
 
 #: apps/publisher/templates/publisher/courserun_list.html
 msgid "Add a New Course"
@@ -2704,7 +2704,7 @@ msgid ""
 "team review. After the course team approves the preview, the edX publisher "
 "will publish the About page for the course run on edx.org. The course team "
 "will receive an email message when the About page has been published."
-msgstr "Les aperçus des pages À Propos pour les instances de cours suivantes sont disponibles pour révision par l'équipe de cours. Une fois que l'équipe de cours a approuvé l'aperçu, EDUlib Publisher publie la page À Propos de cette instance de cours sur edulib.org. L'équipe du cours recevra un courriel lorsque la page À Propos a été publiée."
+msgstr "Les aperçus des pages À Propos pour les instances de cours suivantes sont disponibles pour révision par l'équipe de cours. Une fois que l'équipe de cours a approuvé l'aperçu, EDUplus Publisher publie la page À Propos de cette instance de cours sur eduplus.ca. L'équipe du cours recevra un courriel lorsque la page À Propos a été publiée."
 
 #: apps/publisher/templates/publisher/dashboard/_in_preview.html
 msgid "Status"
@@ -2809,7 +2809,7 @@ msgstr "Voir le commentaire dans Publisher"
 #: apps/publisher/templates/publisher/email/decline_preview.html
 #: apps/publisher/templates/publisher/email/decline_preview.txt
 msgid "The edX team"
-msgstr "L'équipe EDUlib"
+msgstr "L'équipe EDUplus"
 
 #: apps/publisher/templates/publisher/email/comment.txt
 #, python-format
@@ -3088,12 +3088,12 @@ msgstr "La page À Propos de l'instance de cours %(course_run_number)s de %(cour
 msgid ""
 "%(link_start)s%(preview_url)s%(link_middle)sView this About page on "
 "edx.org.%(link_end)s"
-msgstr "%(link_start)s%(preview_url)s%(link_middle)sVoyez cette page À Propos sur cours.edulib.org.%(link_end)s"
+msgstr "%(link_start)s%(preview_url)s%(link_middle)sVoyez cette page À Propos sur cours.eduplus.ca.%(link_end)s"
 
 #: apps/publisher/templates/publisher/email/course_run/published.txt
 #, python-format
 msgid "View this About page on edx.org. %(preview_url)s"
-msgstr "Voir cette page À Propos sur cours.edulib.org. %(preview_url)s"
+msgstr "Voir cette page À Propos sur cours.eduplus.ca. %(preview_url)s"
 
 #: apps/publisher/templates/publisher/email/course_run/published_course_run_editing.html
 #: apps/publisher/templates/publisher/email/course_run/published_course_run_editing.txt
@@ -3234,7 +3234,7 @@ msgstr "Notes Importantes"
 msgid ""
 "Before edX can publish the About page for this course run, you must also add"
 " the following items for this course run in Studio."
-msgstr "Avant qu'EDUlib puisse publier la page À Propos de cette instance de cours, vous devez également ajouter les éléments suivants pour cette instance de cours dans Studio."
+msgstr "Avant qu'EDUplus puisse publier la page À Propos de cette instance de cours, vous devez également ajouter les éléments suivants pour cette instance de cours dans Studio."
 
 #: apps/publisher/templates/publisher/email/studio_instance_created.html
 #: apps/publisher/templates/publisher/email/studio_instance_created.txt
@@ -3257,7 +3257,7 @@ msgstr "Éléments d'attestation (y compris les noms des signataires, les titres
 msgid ""
 "EdX expects your completed %(link_start)sMOOC Development "
 "Checklist%(link_end)s before the course run starts."
-msgstr "EDUlib s'attend à ce que %(link_start)svotre liste de vérification de développement MOOC%(link_end)s soit terminée avant que l'instance de cours commence."
+msgstr "EDUplus s'attend à ce que %(link_start)svotre liste de vérification de développement MOOC%(link_end)s soit terminée avant que l'instance de cours commence."
 
 #: apps/publisher/templates/publisher/email/studio_instance_created.html
 #, python-format
@@ -3266,7 +3266,7 @@ msgid ""
 "video before you submit the course for review in Publisher. For more "
 "information, see %(link_start)sAdd a Course About Video to "
 "edx.org%(link_end)s."
-msgstr "S'il s'agit de la première instance d'un cours, vous devez télécharger le vidéo de la page À Propos avant de soumettre le cours à une révision dans Publisher. Pour plus d'informations, voir %(link_start)sAjouter une vidéo À Propos de cours à edulib.org%(link_end)s."
+msgstr "S'il s'agit de la première instance d'un cours, vous devez télécharger le vidéo de la page À Propos avant de soumettre le cours à une révision dans Publisher. Pour plus d'informations, voir %(link_start)sAjouter une vidéo À Propos de cours à eduplus.ca%(link_end)s."
 
 #: apps/publisher/templates/publisher/email/studio_instance_created.txt
 #, python-format
@@ -3280,14 +3280,14 @@ msgstr "%(project_coordinator_name)s a créé un URL Studio pour l'instance de c
 msgid ""
 "EdX expects your completed MOOC Development Checklist before the course run "
 "starts."
-msgstr "EDUlib s'attend à ce que votre liste de vérification de développement MOOC soit terminée avant que l'instance de cours commence."
+msgstr "EDUplus s'attend à ce que votre liste de vérification de développement MOOC soit terminée avant que l'instance de cours commence."
 
 #: apps/publisher/templates/publisher/email/studio_instance_created.txt
 msgid ""
 "If this is the first run of a course, you should upload the course About "
 "video before you submit the course for review in Publisher. For more "
 "information, see Add a Course About Video to edx.org."
-msgstr "S'il s'agit de la première instance d'un cours, vous devez télécharger le vidéo de la page À Propos avant de soumettre le cours à une révision dans Publisher. Pour plus d'informations, consultez Ajouter un vidéo de page À Propos sur edulib.org."
+msgstr "S'il s'agit de la première instance d'un cours, vous devez télécharger le vidéo de la page À Propos avant de soumettre le cours à une révision dans Publisher. Pour plus d'informations, consultez Ajouter un vidéo de page À Propos sur eduplus.ca."
 
 #: apps/publisher/templates/publisher/seat_form.html
 msgid "Seat Form"
@@ -3362,7 +3362,7 @@ msgid ""
 "You have successfully created a course. You can edit the course information "
 "or enter information for the course About page at any time before you send "
 "the course to edX marketing for review. "
-msgstr "Vous avez créé un cours avec succès. Vous pouvez modifier les informations du cours ou saisir des informations pour la page À Propos du cours à tout moment avant d'envoyer le cours au marketing EDUlib pour révision."
+msgstr "Vous avez créé un cours avec succès. Vous pouvez modifier les informations du cours ou saisir des informations pour la page À Propos du cours à tout moment avant d'envoyer le cours au marketing EDUplus pour révision."
 
 #: apps/publisher/views.py
 #, python-brace-format

@@ -1016,7 +1016,7 @@ msgid ""
 "edX user account on each SSO login. The user will be notified if the email "
 "address associated with their account is changed as a part of this "
 "synchronization."
-msgstr "Synchronisez les données de l'utilisateur reçues par le fournisseur d'identité avec le compte EDUlib à chaque connexion SSO. L'utilisateur sera informé si l'adresse courriel associée à son compte est modifiée dans le cadre de cette synchronisation."
+msgstr "Synchronisez les données de l'utilisateur reçues par le fournisseur d'identité avec le compte EDUplus à chaque connexion SSO. L'utilisateur sera informé si l'adresse courriel associée à son compte est modifiée dans le cadre de cette synchronisation."
 
 #: common/djangoapps/third_party_auth/models.py:392
 msgid "The Site that this SAML configuration belongs to."
@@ -2608,7 +2608,7 @@ msgstr "Entrer vrai (true) ou faux (false). Si vrai, les étudiants peuvent voir
 #: common/lib/xmodule/xmodule/course_module.py:329
 msgid ""
 "Enter the name of the course as it should appear in the edX.org course list."
-msgstr "Entrer le nom du cours comme il devrait apparaitre dans la liste de cours sur cours.edulib.org."
+msgstr "Entrer le nom du cours comme il devrait apparaitre dans la liste de cours sur cours.eduplus.ca."
 
 #: common/lib/xmodule/xmodule/course_module.py:331
 msgid "Course Display Name"
@@ -9250,7 +9250,7 @@ msgstr "Notre adresse postale est "
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_head.html:7
 msgid "edX Email"
-msgstr "Courriel d'EDUlib"
+msgstr "Courriel d'EDUplus"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/upsell_cta.html:6
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/upsell_cta.txt:4

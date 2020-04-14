@@ -2957,7 +2957,7 @@ msgid ""
 "You have been logged out of your edX account. Click Okay to log in again "
 "now. Click Cancel to stay on this page (you must log in again to save your "
 "work)."
-msgstr "Vous avez été déconnecté de votre compte EDUlib. Cliquer OK pour vous connecter de nouveau. Cliquer Cancel pour rester sur cette page (vous devez vous connecter de nouveau pour sauvegarder votre travail)."
+msgstr "Vous avez été déconnecté de votre compte EDUplus. Cliquer OK pour vous connecter de nouveau. Cliquer Cancel pour rester sur cette page (vous devez vous connecter de nouveau pour sauvegarder votre travail)."
 
 #: lms/static/js/api_admin/views/catalog_preview.js:24
 msgid "Preview this query"
@@ -4323,7 +4323,7 @@ msgid ""
 "the above carefully before proceeding. This is an irreversible action, and "
 "{strongStart}you will no longer be able to use the same email on "
 "edX.{strongEnd}"
-msgstr "{strongStart}Avertissement : la suppression du compte est permanente. {strongEnd} Veuillez lire attentivement les informations ci-dessus avant de poursuivre. Ceci est une action irréversible et {strongStart}vous ne pourrez plus utiliser la même adresse courriel sur EDUlib.{StrongEnd}"
+msgstr "{strongStart}Avertissement : la suppression du compte est permanente. {strongEnd} Veuillez lire attentivement les informations ci-dessus avant de poursuivre. Ceci est une action irréversible et {strongStart}vous ne pourrez plus utiliser la même adresse courriel sur EDUplus.{StrongEnd}"
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx:85
 msgid "We’re sorry to see you go!"
@@ -4336,7 +4336,7 @@ msgid ""
 "edx.org from your employer’s or university’s system and access to private "
 "sites offered by MIT Open Learning, Wharton Executive Education, and Harvard"
 " Medical School."
-msgstr "Une fois votre compte supprimé, vous ne pouvez pas l'utiliser pour suivre des cours sur l'application EDUlib, edulib.org ou sur tout autre site hébergé par EDUlib. Cela inclut l'accès à edulib.org depuis le système de votre employeur ou de votre université et l'accès à des sites privés offerts par MIT Open Learning, Wharton Executive Education et Harvard Medical School."
+msgstr "Une fois votre compte supprimé, vous ne pouvez pas l'utiliser pour suivre des cours sur l'application EDUplus, eduplus.ca ou sur tout autre site hébergé par EDUplus. Cela inclut l'accès à eduplus.ca depuis le système de votre employeur ou de votre université et l'accès à des sites privés offerts par MIT Open Learning, Wharton Executive Education et Harvard Medical School."
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx:104
 #: lms/static/js/student_account/views/account_settings_factory.js:331
@@ -4370,7 +4370,7 @@ msgid ""
 "You have selected “Delete my account.” Deletion of your account and personal"
 " data is permanent and cannot be undone. EdX will not be able to recover "
 "your account or the data that is deleted."
-msgstr "Vous avez sélectionné “Supprimer mon compte.” La suppression de votre compte et de vos données personnelles est permanente et ne peut pas être annulée. EDUlib ne pourra pas récupérer votre compte ou les données supprimées."
+msgstr "Vous avez sélectionné “Supprimer mon compte.” La suppression de votre compte et de vos données personnelles est permanente et ne peut pas être annulée. EDUplus ne pourra pas récupérer votre compte ou les données supprimées."
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx:149
 msgid ""
@@ -4612,7 +4612,7 @@ msgstr "Liens des médias sociaux"
 msgid ""
 "Optionally, link your personal accounts to the social media icons on your "
 "edX profile."
-msgstr "Si désiré, liez vos comptes personnels aux icônes des médias sociaux sur votre profil EDUlib."
+msgstr "Si désiré, liez vos comptes personnels aux icônes des médias sociaux sur votre profil EDUplus."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:313
 msgid " Link"

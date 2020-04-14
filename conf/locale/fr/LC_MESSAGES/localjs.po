@@ -1,5 +1,5 @@
 
-#. Start of local translations for EDUlib
+#. Start of local translations for EDUplus
 
 #: common/static/common/templates/discussion/discussion-home.underscore
 msgid "Use the Discussion Topics menu to find specific topics."
