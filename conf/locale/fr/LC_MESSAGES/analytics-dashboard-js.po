@@ -254,11 +254,11 @@ msgstr "Programmes"
 
 #: static/apps/course-list/list/views/base-header-cell.js:11
 msgid "Course name advertised on edX site."
-msgstr "Nom du cours annoncé sur le site EDUplus."
+msgstr "Nom du cours annoncé sur le site EDUzone."
 
 #: static/apps/course-list/list/views/base-header-cell.js:12
 msgid "Start date advertised on edX site."
-msgstr "Date de début annoncée sur le site EDUplus."
+msgstr "Date de début annoncée sur le site EDUzone."
 
 #: static/apps/course-list/list/views/base-header-cell.js:13
 msgid "End date set in edX Studio."

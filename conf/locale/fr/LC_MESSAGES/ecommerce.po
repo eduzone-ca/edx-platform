@@ -323,7 +323,7 @@ msgstr "Le bon n'est pas applicable à votre panier."
 
 #: ecommerce/coupons/views.py:129
 msgid "Welcome to edX"
-msgstr "Bienvenue sur EDUplus"
+msgstr "Bienvenue sur EDUzone"
 
 #: ecommerce/coupons/views.py:130
 msgid ""
@@ -1563,7 +1563,7 @@ msgid ""
 "university's logo, as well as signatures from faculty members involved with "
 "the course. There is also a URL that can be used to verify the authenticity "
 "of the certificate."
-msgstr "Une attestation (digitale) confirme que l'utilisateur a terminé le cours à une date donnée. L'attestation comprend le logo de EDUplus, ainsi que les signatures de membres du corps professoral participant au cours. Il y a aussi une URL qui peut être utilisé pour vérifier l'authenticité de l'attestation."
+msgstr "Une attestation (digitale) confirme que l'utilisateur a terminé le cours à une date donnée. L'attestation comprend le logo de EDUzone, ainsi que les signatures de membres du corps professoral participant au cours. Il y a aussi une URL qui peut être utilisé pour vérifier l'authenticité de l'attestation."
 
 #: ecommerce/templates/coupons/offer.html:30
 msgid ""
@@ -1669,7 +1669,7 @@ msgstr "équipe %(platform_name)s"
 
 #: ecommerce/templates/customer/emails/commtype_course_purchased_body.txt:15
 msgid "The edX team"
-msgstr "L'équipe EDUplus"
+msgstr "L'équipe EDUzone"
 
 #: ecommerce/templates/customer/emails/commtype_course_purchased_subject.txt:2
 msgid "Order Placed"
@@ -1777,7 +1777,7 @@ msgstr "Pour affaires"
 msgid ""
 "Thank you for purchasing access to %(course_name)s. Let's get your group "
 "ready to learn with edX:"
-msgstr "Merci d'avoir acheté l'accès à %(course_name)s. Préparons votre groupe à apprendre avec EDUplus :"
+msgstr "Merci d'avoir acheté l'accès à %(course_name)s. Préparons votre groupe à apprendre avec EDUzone :"
 
 #: ecommerce/templates/customer/emails/commtype_order_with_csv_body.html:27
 #, python-format
@@ -1799,7 +1799,7 @@ msgstr "Astuce Pro: Suivez quel code est associé à quelle personne."
 #: ecommerce/templates/customer/emails/commtype_order_with_csv_body.html:30
 #: ecommerce/templates/customer/emails/commtype_order_with_csv_body.txt:11
 msgid "Learners sign-in/register with edX and enroll for the course."
-msgstr "Les apprenants s'inscrivent / s'inscrivent avec EDUplus et s'inscrivent au cours."
+msgstr "Les apprenants s'inscrivent / s'inscrivent avec EDUzone et s'inscrivent au cours."
 
 #: ecommerce/templates/customer/emails/commtype_order_with_csv_body.html:32
 #, python-format
@@ -1814,7 +1814,7 @@ msgstr "Pour voir vos informations de paiement,  connectez-vous pour voir votre 
 msgid ""
 "For more information and assistance, contact "
 "%(link_start)sinfo@edx.org.%(link_end)s"
-msgstr "Pour plus d'informations et d'assistance, contacter %(link_start)sinfo@eduplus.ca.%(link_end)s"
+msgstr "Pour plus d'informations et d'assistance, contacter %(link_start)sinfo@eduzone.ca.%(link_end)s"
 
 #: ecommerce/templates/customer/emails/commtype_order_with_csv_body.html:34
 #: ecommerce/templates/customer/emails/commtype_order_with_csv_body.txt:16
@@ -1881,7 +1881,7 @@ msgstr "Pour voir vos informations de paiement, connectez-vous pour voir votre H
 
 #: ecommerce/templates/customer/emails/commtype_order_with_csv_body.txt:14
 msgid "For more information and assistance, contact info@edx.org."
-msgstr "Pour plus d'informations et d'assistance, contactez info@eduplus.ca."
+msgstr "Pour plus d'informations et d'assistance, contactez info@eduzone.ca."
 
 #: ecommerce/templates/customer/emails/commtype_order_with_csv_subject.txt:2
 #, python-format
@@ -2103,7 +2103,7 @@ msgstr "C'est abordable."
 msgid ""
 "The credit offered through edX generally costs less than the same credit at "
 "most institutions."
-msgstr "Le crédit offert par EDUplus coûte généralement moins que le même crédit à la plupart des autres institutions."
+msgstr "Le crédit offert par EDUzone coûte généralement moins que le même crédit à la plupart des autres institutions."
 
 #: ecommerce/templates/edx/credit/checkout.html:102
 msgid "It opens doors."
@@ -2150,7 +2150,7 @@ msgstr "Nous vous demandons d'activer votre compte pour nous assurer que c'est b
 
 #: ecommerce/templates/edx/error.html:16
 msgid "If you need assistance, contact edX support."
-msgstr "Si vous avez besoin d'aide, contactez le support EDUplus."
+msgstr "Si vous avez besoin d'aide, contactez le support EDUzone."
 
 #: ecommerce/templates/edx/partials/_administration_menu.html:6
 msgid "Coupons"

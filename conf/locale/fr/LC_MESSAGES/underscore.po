@@ -1974,7 +1974,7 @@ msgstr "Connectez-vous pour continuer à apprendre"
 #: lms/templates/student_account/login.underscore:19
 msgid ""
 "You already have an edX account with your {enterprise_name} email address."
-msgstr "Vous avez déjà un compte EDUplus avec votre adresse courriel {enterprise_name}."
+msgstr "Vous avez déjà un compte EDUzone avec votre adresse courriel {enterprise_name}."
 
 #: lms/templates/student_account/login.underscore:21
 msgid ""
