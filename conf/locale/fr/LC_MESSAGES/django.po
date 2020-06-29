@@ -1498,7 +1498,7 @@ msgid ""
 "synchronization."
 msgstr ""
 "Synchronisez les données de l'utilisateur reçues par le fournisseur "
-"d'identité avec le compte EDUplus à chaque connexion SSO. L'utilisateur sera "
+"d'identité avec le compte EDUzone à chaque connexion SSO. L'utilisateur sera "
 "informé si l'adresse courriel associée à son compte est modifiée dans le "
 "cadre de cette synchronisation."
 
@@ -3279,7 +3279,7 @@ msgid ""
 "Enter the name of the course as it should appear in the edX.org course list."
 msgstr ""
 "Entrer le nom du cours comme il devrait apparaitre dans la liste de cours "
-"sur cours.eduplus.ca."
+"sur cours.eduzone.ca."
 
 #: common/lib/xmodule/xmodule/course_module.py:331
 msgid "Course Display Name"
@@ -11283,7 +11283,7 @@ msgstr "Notre adresse postale est "
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_head.html:7
 msgid "edX Email"
-msgstr "Courriel d'EDUplus"
+msgstr "Courriel d'EDUzone"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/upsell_cta.html:6
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/upsell_cta.txt:4
@@ -17327,7 +17327,7 @@ msgstr ""
 
 #: lms/templates/certificates/valid.html:12
 msgid "About edX Certificates"
-msgstr "À propos des attestations EDUplus"
+msgstr "À propos des attestations EDUzone"
 
 #: lms/templates/commerce/checkout_cancel.html:5
 #: lms/templates/commerce/checkout_cancel.html:9
@@ -18553,7 +18553,7 @@ msgstr ""
 
 #: lms/templates/dashboard/_dashboard_course_listing.html:437
 msgid "You have successfully verified your ID with edX"
-msgstr "Vous avez vérifié avec succès votre identité avec EDUplus"
+msgstr "Vous avez vérifié avec succès votre identité avec EDUzone"
 
 #: lms/templates/dashboard/_dashboard_course_listing.html:439
 msgid "Your current verification is effective until {date}."
@@ -18703,7 +18703,7 @@ msgid ""
 "Your edX verification has been approved. Your verification is effective for "
 "one year after submission."
 msgstr ""
-"Votre vérification EDUplus a été approuvée. Votre statut de vérification est "
+"Votre vérification EDUzone a été approuvée. Votre statut de vérification est "
 "valable pour un an suite à sa soumission."
 
 #: lms/templates/dashboard/_dashboard_status_verification.html:16
@@ -18715,7 +18715,7 @@ msgid ""
 "Your edX ID verification is pending. Your verification information has been "
 "submitted and will be reviewed shortly."
 msgstr ""
-"Votre vérification EDUplus est en attente. Vos photos de vérification ont été "
+"Votre vérification EDUzone est en attente. Vos photos de vérification ont été "
 "soumises et seront examinées bientôt."
 
 #: lms/templates/dashboard/_dashboard_status_verification.html:21
@@ -22945,7 +22945,7 @@ msgstr "Partagez votre attestation avec des amis, employés, et autres"
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:40
 msgid "edX Learner Stories"
-msgstr "Histoires d'apprenants EDUplus"
+msgstr "Histoires d'apprenants EDUzone"
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:44
 msgid ""
@@ -22960,7 +22960,7 @@ msgstr ""
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:47
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:56
 msgid "{learner_name}, edX Learner"
-msgstr "{learner_name}, Apprenant EDUplus"
+msgstr "{learner_name}, Apprenant EDUzone"
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:53
 msgid ""
@@ -23189,7 +23189,7 @@ msgstr ""
 
 #: themes/edx.org/lms/templates/certificates/_about-edx.html:7
 msgid "About edX"
-msgstr "À propos d'EDUplus"
+msgstr "À propos d'EDUzone"
 
 #: themes/edx.org/lms/templates/certificates/_about-edx.html:9
 msgid ""
@@ -23244,7 +23244,7 @@ msgstr "Imprimer cette attestation"
 
 #: themes/edx.org/lms/templates/certificates/_accomplishment-footer.html:22
 msgid "edX Inc."
-msgstr "EDUplus."
+msgstr "EDUzone."
 
 #: themes/edx.org/lms/templates/certificates/_accomplishment-footer.html:24
 msgid ""
@@ -23260,7 +23260,7 @@ msgid ""
 "{b_start}Support our Mission: {b_end}EdX, a non-profit, relies on verified "
 "certificates to help fund affordable education to everyone globally."
 msgstr ""
-"{b_start}Soutenez notre mission: {b_end} EDUplus, une organisation à but non "
+"{b_start}Soutenez notre mission: {b_end} EDUzone, une organisation à but non "
 "lucratif, s'appuie sur les attestations pour assurer le financement d'une "
 "éducation abordable pour tous à l´échelle mondiale."
 
@@ -23269,7 +23269,7 @@ msgid ""
 "{b_start}Support our Mission: {b_end} EdX, a non-profit, relies on verified "
 "certificates to help fund free education for everyone globally"
 msgstr ""
-"{b_start}Supporter notre mission : {b_end} EDUplus, une organisation sans but "
+"{b_start}Supporter notre mission : {b_end} EDUzone, une organisation sans but "
 "lucratif, repose sur les attestations pour assurer le financement de "
 "l'éducation gratuite pour tous à l´échelle mondiale"
 
@@ -23322,7 +23322,7 @@ msgstr ""
 "Vous allez recevoir un courriel d'activation. Vous devrez cliquer sur le "
 "lien d'activation pour compléter l'inscription. Vous ne voyez pas le "
 "courriels ? Vérifiez votre dossier de pourriel et marquez les mails "
-"provenant de eduplus.ca comme n'étant pas du pourriel, puisque vous voudrez "
+"provenant de eduzone.ca comme n'étant pas du pourriel, puisque vous voudrez "
 "pouvoir recevoir des courriels provenant de nos cours."
 
 #: themes/stanford-style/lms/templates/register-sidebar.html:33
@@ -28333,10 +28333,10 @@ msgstr ""
 "Une nouvelle révision a été créée : Fusion entre la révision #%(r1)d et la "
 "révision #%(r2)d"
 
-#. Start of local translations for EDUplus
+#. Start of local translations for EDUzone
 #. Translators: "Terms of service" is a legal document users must agree to
 #. in order to register a new account.
-#. msgstr "Dans le cadre de l'initiative EDUplus (ou FUN), des équipes de chercheurs vont recueillir et analyser les traces informatiques des activités de tous les participants, dans le but de produire des connaissances scientifiques et d'améliorer les cours. Les traces auxquelles auront accès les chercheurs seront anonymisées, par une équipe de l'Université de Montréal sous la supervision du Pr. Poellhuber, par un processus informatique retirant des données tout renseignement personnel permettant de vous identifier et transformant votre identifiant de manière non réversible. J'acccepte les {terms_of_service} {platform_name}."
+#. msgstr "Dans le cadre de l'initiative EDUzone (ou FUN), des équipes de chercheurs vont recueillir et analyser les traces informatiques des activités de tous les participants, dans le but de produire des connaissances scientifiques et d'améliorer les cours. Les traces auxquelles auront accès les chercheurs seront anonymisées, par une équipe de l'Université de Montréal sous la supervision du Pr. Poellhuber, par un processus informatique retirant des données tout renseignement personnel permettant de vous identifier et transformant votre identifiant de manière non réversible. J'acccepte les {terms_of_service} {platform_name}."
 #: openedx/core/djangoapps/user_api/views.py
 msgid "I agree to the {platform_name} {link_start}Terms of Service{link_end} and {link_start2}Honor Code{link_end2}."
 msgstr "J'accepte {link_start}les conditions générales du service{link_end} et {link_start2}le code sur l'honneur{link_end2} {platform_name}."
@@ -30408,8 +30408,8 @@ msgid "The submission format is invalid."
 msgstr "Le format de la réponse est invalide."
 
 #: lms/templates/index.html
-msgid "Visit the EDUplus catalog"
-msgstr "Visitez le catalogue EDUplus"
+msgid "Visit the EDUzone catalog"
+msgstr "Visitez le catalogue EDUzone"
 
 #: lms/templates/index.html
 msgid "en"

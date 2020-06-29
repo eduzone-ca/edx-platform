@@ -1,5 +1,5 @@
 
-#. Start of local translations for EDUplus
+#. Start of local translations for EDUzone
 
 #: common/static/common/templates/discussion/discussion-home.underscore
 msgid "Use the Discussion Topics menu to find specific topics."
@@ -47,11 +47,11 @@ msgstr "Les mots de passe ne correspondent pas."
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx:
 msgid "Please note: Deletion of your account and personal data is permanent and cannot be undone. EdX will not be able to recover your account or the data that is deleted."
-msgstr "Remarque: la suppression de votre compte et de vos données personnelles est permanente et ne peut pas être annulée. EDUplus ne pourra pas récupérer votre compte ni les données supprimées."
+msgstr "Remarque: la suppression de votre compte et de vos données personnelles est permanente et ne peut pas être annulée. EDUzone ne pourra pas récupérer votre compte ni les données supprimées."
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx:
 msgid "If you proceed, you will be unable to use this account to take courses on the edX app, edx.org, or any other site hosted by edX. This includes access to edx.org from your employer’s or university’s system and access to private sites offered by MIT Open Learning, Wharton Executive Education, and Harvard Medical School."
-msgstr "Si vous continuez, vous ne pourrez plus utiliser ce compte pour suivre des cours sur l'application EDUplus, eduplus.ca ou sur tout autre site hébergé par EDUplus. Cela inclut l'accès à eduplus.ca depuis le système de votre employeur ou de votre université et l'accès à des sites privés offerts par MIT Open Learning, Wharton Executive Education et Harvard Medical School."
+msgstr "Si vous continuez, vous ne pourrez plus utiliser ce compte pour suivre des cours sur l'application EDUzone, eduzone.ca ou sur tout autre site hébergé par EDUzone. Cela inclut l'accès à eduzone.ca depuis le système de votre employeur ou de votre université et l'accès à des sites privés offerts par MIT Open Learning, Wharton Executive Education et Harvard Medical School."
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx:
 msgid "Yes, Delete"
