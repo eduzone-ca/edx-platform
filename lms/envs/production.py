@@ -632,7 +632,7 @@ if FEATURES.get('ENABLE_THIRD_PARTY_AUTH'):
         'common.djangoapps.third_party_auth.identityserver3.IdentityServer3',
         'common.djangoapps.third_party_auth.saml.SAMLAuthBackend',
         'common.djangoapps.third_party_auth.lti.LTIAuthBackend',
-        'eox_core.social_tpa_backends.ConfigurableOpenIdConnectAuth',
+####        'eox_core.social_tpa_backends.ConfigurableOpenIdConnectAuth',
     ])
 
     AUTHENTICATION_BACKENDS = list(tmp_backends) + list(AUTHENTICATION_BACKENDS)
